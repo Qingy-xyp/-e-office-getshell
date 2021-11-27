@@ -1,0 +1,1 @@
+([('gui', '/Users/ingyq/Desktop/GUI/dist/gui', 'EXECUTABLE')],)
